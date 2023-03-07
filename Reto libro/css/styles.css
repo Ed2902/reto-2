@@ -1,28 +1,39 @@
 *{
-    background-color: hsl(196, 100%, 13%);
     margin: 0;
     padding: 0%;
-    padding: 10;
+
+}
+
+.main{
+    background-color: hsl(196, 100%, 13%);
+    padding: auto;
 }
  
 .titulo {background-color: hsl(312, 32%, 36%);
 text-align: center;
-color: rgb(255, 255, 255);}
+color: rgb(255, 255, 255);
+padding: 35px;}
+
 
 .parrafo {background-color: hsl(186, 100%, 27%);
-    text-align: center;
-}
+    text-align:center; padding: 6px;
+    margin: 15px;
+    border-radius: 20px;
+    margin-block:1%;
+    margin-top: 0.5px;
+    padding: 15px;
+    }
 
 .subtitulo{ background-color:hsl(196, 100%, 13%);
-color: white;text-align: center;
+color: white;text-align: center; padding: 20px;
+margin-bottom: -10px; margin-top: 25px;
 }
 
-section { width: 45%;
+section { width: 48%;
 text-align: center;
 display: inline-block;
-margin: 10;
-padding: 0%;
-padding: 10;
+margin: 1px;
+padding: 15px;
 
 }
     
