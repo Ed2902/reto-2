@@ -1,0 +1,30 @@
+*{
+    background-color: hsl(196, 100%, 13%);
+    margin: 0;
+    padding: 0%;
+    padding: 10;
+}
+ 
+.titulo {background-color: hsl(312, 32%, 36%);
+text-align: center;
+color: rgb(255, 255, 255);}
+
+.parrafo {background-color: hsl(186, 100%, 27%);
+    text-align: center;
+}
+
+.subtitulo{ background-color:hsl(196, 100%, 13%);
+color: white;text-align: center;
+}
+
+section { width: 45%;
+text-align: center;
+display: inline-block;
+margin: 10;
+padding: 0%;
+padding: 10;
+
+}
+    
+
+ 
